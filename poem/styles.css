@@ -2,11 +2,13 @@
 /*font-family: 'Ubuntu', sans-serif; */
 
 h1{
-    font-weight: 900;
-    font-family: 'Ubuntu', sans-serif;
+    font-weight : 900;
+    font-family : 'Ubuntu', sans-serif;
 }
 
 h2{
     font-weight: 700;
     font-family: 'Ubuntu', sans-serif;
 }
+/* I think the font for the poem is good already */
+
