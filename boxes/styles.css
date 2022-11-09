@@ -1,4 +1,30 @@
-h1{
-    background-color: beige;
 
+.bigbox1, .littlebox1, .bigbox2, .littlebox2{
+    width: 100px;
+    height: 100px;
+}
+
+.bigbox1{
+    background-color: coral;
+    border: 3px solid black;
+    margin: 40px;
+    padding: 90px;
+}
+
+.littlebox1{
+    background-color: green;
+    border: 3px solid lightskyblue;
+}
+
+.bigbox2{
+    margin: 40px;
+    border : 3px solid black;
+    background-color: coral;
+    padding: 90px;
+}
+
+.littlebox2{
+    background-color: green;
+    border: 3px solid lightskyblue;
+    margin: -60px; /* can do negative pixels I guess*/
 }
